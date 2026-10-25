@@ -17,7 +17,10 @@ Reply to the user in Burmese.
 Read `project.json` at the repository root: `studio.url` is the Studio artifact, `studio.collection`
 (`perfumes`) is the collection. If that artifact cannot be read from this account (a new account
 after an import), run `Artifact` `list`, find the page titled "ရေမွေး Review Studio", update
-`project.json`, and tell the user. If there is none, follow `README.md` → "Import" first.
+`project.json`, and tell the user. If there is none, follow `START-HERE.md` first.
+
+No `ArtifactData` tool in this chat (for example a regular claude.ai chat)? Do steps 1, 3, 4 and 5
+anyway, then hand the user a file instead of saving (step 6, "file mode").
 
 ## 1. Pin down the exact perfume
 
@@ -96,6 +99,10 @@ at most 60 characters (`Versace Pour Homme Dylan Blue Eau de Toilette` →
   (`script`, `captions`, `shoot`, `selftest`, `images`, `longscript`, `talk`, `hooks`, `angles`).
   If any of those script fields exist, also send `staleAt` = now, so the Studio offers to rewrite
   them from the new facts.
+- File mode (no `ArtifactData`): wrap the document in the Studio's backup format and give the user
+  the file — `{"format": "perfume-review-studio-backup", "version": 1, "exportedAt": "<ISO time>",
+  "perfumes": [{...the document..., "id": "<id>"}], "vs": []}` saved as `<id>.json`. Tell them:
+  Studio → Library → 💾 Backup → ⬆️ Import → choose the file → "အသစ် ၁ ခု ထည့်မယ်".
 
 ## 7. Report (Burmese, short)
 

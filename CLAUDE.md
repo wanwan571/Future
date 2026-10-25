@@ -16,10 +16,15 @@ post-result tracking.
   Its live URL is in `project.json` (`studio.url`). Capabilities: `studio/capabilities.json`.
   Data lives in the artifact's database, collection `perfumes` (one document per perfume) and
   `vs` (saved VS scripts).
+- `studio/STUDIO-GUIDE.md` — every feature, the data model and where the AI prompts live.
 - `data/perfume-studio-backup.json` — a backup of that database in the Studio's own format
-  (the Studio's Library → 💾 Backup → Import reads it).
+  (the Studio's Library → 💾 Backup → Import reads it); `data/perfumes/*.json` one file each.
+- `perfumes/*.md` — each perfume rendered as readable Markdown (`tools/make_markdown.py`
+  regenerates them from a backup).
 - `design/` — the phone-first design canvas the Studio follows (`project.json` → `design.url`).
 - `.claude/skills/perfume-research/` — how to research a perfume in chat and save it to the Studio.
+- `START-HERE.md` — moving the project to another account; `PROJECT-INSTRUCTIONS.md` — the same
+  rules for a claude.ai Project (regular chats).
 
 ## How the pieces work together
 
@@ -52,6 +57,6 @@ post-result tracking.
 
 ## Moving to another account
 
-Follow `README.md` → "တခြား account ထဲ ပြန်ထည့်နည်း". If `studio.url` cannot be read from the
+Follow `START-HERE.md` → "Claude လုပ်ရမယ့် အဆင့်". If `studio.url` cannot be read from the
 current account, the project has been moved: publish the Studio there, import the backup, and
 update `project.json`.

@@ -1,0 +1,577 @@
+{
+ "format": "perfume-review-studio-backup",
+ "version": 1,
+ "exportedAt": "2026-10-25T09:50:50+00:00",
+ "perfumes": [
+  {
+   "accords": [
+    {
+     "name": "aromatic",
+     "pct": 100
+    },
+    {
+     "name": "fresh spicy",
+     "pct": 98
+    },
+    {
+     "name": "woody",
+     "pct": 74
+    },
+    {
+     "name": "fruity",
+     "pct": 59
+    },
+    {
+     "name": "fresh",
+     "pct": 52
+    },
+    {
+     "name": "amber",
+     "pct": 52
+    },
+    {
+     "name": "citrus",
+     "pct": 46
+    },
+    {
+     "name": "herbal",
+     "pct": 39
+    }
+   ],
+   "alternatives": [
+    "Yves Saint Laurent Y Eau de Toilette",
+    "Yves Saint Laurent Y Le Parfum",
+    "Yves Saint Laurent Y Eau de Parfum Intense",
+    "Yves Saint Laurent Y Elixir",
+    "Yves Saint Laurent Y Live"
+   ],
+   "authenticity": [
+    {
+     "area": "Batch code — ဘူးအောက်ခြေ နဲ့ ပုလင်းအောက်ခြေ",
+     "check": "ဘူးနဲ့ ပုလင်းက code တူရမယ်၊ ပုံနှိပ် ပြတ်သား။ ⚠️ တည်နေရာ အတိအကျကို ဆိုင်က အစစ်နဲ့ ယှဉ်ကြည့်ပါ။",
+     "red_flag": "Code မတူ၊ မပါ၊ မှိန်ပြီး မညီ။ Code မှန်ရုံနဲ့ အစစ်လို့ မဆုံးဖြတ်နဲ့။"
+    },
+    {
+     "area": "ပုလင်းထဲက Y စာလုံးနဲ့ notch",
+     "check": "ငွေရောင် Y စာလုံး ပြတ်ပြတ်သားသား၊ အကွဲကြောင်း (notch) ဖြတ်ချက် ညီညာ ချောမွေ့။",
+     "red_flag": "Y စာလုံး မှိန်/ယိုင်၊ ဖြတ်ချက် ကြမ်း၊ ကော် ပေကျံ။"
+    },
+    {
+     "area": "အပြာ ရောင်ပြေး မှန်",
+     "check": "အပြာရင့်ကနေ ချောချောမွေ့မွေ့ ရောင်ပြေး၊ မှန်ထူ လေးလံ (EDP က EDT ထက် ပိုရင့်)။",
+     "red_flag": "ရောင်ပြေး အစင်းကြောင်းထင်၊ အရောင် ဖျော့/မှား၊ မှန်ပါး ပေါ့။"
+    },
+    {
+     "area": "ဖုံး",
+     "check": "အနက်+ငွေရောင် ဖုံး တင်းတင်းကျကျ၊ ပုလင်းနဲ့ အံဝင်။ ⚠️ ဆိုင်က အစစ်နဲ့ ယှဉ်ကြည့်ပါ။",
+     "red_flag": "ဖုံး လျော့၊ ပေါ့လွန်း၊ ငွေရောင် ကွာ။"
+    },
+    {
+     "area": "ဘူးနဲ့ ingredients စာရင်း",
+     "check": "ဘူး မာ၊ ပုံနှိပ် ကြည်လင်၊ ingredients (Alcohol၊ Parfum/Fragrance၊ Aqua/Water၊ Limonene၊ Linalool…) စာရင်း သပ်ရပ်။ Refillable ပုလင်းဆို ဘူးပေါ် 'refillable' ရေးထား။",
+     "red_flag": "စာလုံးပေါင်းမှား၊ ingredients မပါ/မှား၊ cellophane ကြမ်း။"
+    },
+    {
+     "area": "အနံ့",
+     "check": "ဖျန်းဖျန်းချင်း ပန်းသီး+ဂျင်း ပြတ်သား၊ ၃၀ မိနစ်အကြာ sage ပေါ်၊ နာရီပေါင်းများစွာ ခံ။",
+     "red_flag": "Alcohol နံ့ပြင်း၊ ချိုရုံ သက်သက်၊ ၁–၂ နာရီနဲ့ ပျောက်၊ အရေပြား ယား ⚠️။"
+    },
+    {
+     "area": "ဈေးနှုန်း",
+     "check": "တရားဝင်ဆိုင်ဈေးနဲ့ ယှဉ်ရင် သင့်တင့်။",
+     "red_flag": "ဈေးအရမ်းပေါ၊ ဘူးမပါ 'tester' လို့ ဆိုပြီး ဈေးပေါပေါ ရောင်း — သတိ။"
+    }
+   ],
+   "bottle": "အပြာရင့်ရောင် ရောင်ပြေး မှန်ကို အလယ်ကနေ အကွဲကြောင်းတစ်ခု ဖြတ်ထားပြီး အထဲမှာ ငွေရောင် Y စာလုံး ပေါ်နေတဲ့ ထောင့်မှန် 'monolith' ပုလင်း၊ အနက်+ငွေရောင် ဖုံး။ Refill ပြန်ဖြည့်လို့ရတယ်။",
+   "brand": "Yves Saint Laurent",
+   "compare": [
+    {
+     "best_for": "Date၊ ကျောင်း၊ ညနေ၊ မိုးနဲ့ ဆောင်း",
+     "character": "ပန်းသီးစိမ်း၊ ဂျင်း လတ်ဆတ်မှုနဲ့ စပြီး sage ရဲ့ သန့်ရှင်းမှု၊ amberwood/tonka ချိုနွေး base။ ချိုလန်း ပြင်းပြင်း။",
+     "fresh": 4,
+     "group": "ဒီရေမွေး",
+     "is_self": true,
+     "longevity": "၈–၁၀ နာရီ",
+     "name": "Yves Saint Laurent Y Eau de Parfum",
+     "strength": 4,
+     "sweet": 3,
+     "year": "2018"
+    },
+    {
+     "best_for": "နွေ နေ့ဘက်၊ ရုံး",
+     "character": "ပိုလန်း ပိုပေါ့၊ bergamot ပိုထင်ရှား၊ ချိုမှု နည်း",
+     "fresh": 5,
+     "group": "Line ထဲက version",
+     "is_self": false,
+     "longevity": "၅–၇ နာရီ",
+     "name": "Yves Saint Laurent Y Eau de Toilette",
+     "strength": 2,
+     "sweet": 2,
+     "year": "2017"
+    },
+    {
+     "best_for": "ည၊ Date၊ ဆောင်း",
+     "character": "ပိုနက် ပိုချို ရင့်ကျက်၊ Performance EDP ထက် နည်းတယ်ဆိုသူ ရှိ ⚠️",
+     "fresh": 2,
+     "group": "Line ထဲက version",
+     "is_self": false,
+     "longevity": "၆–၈ နာရီ ⚠️",
+     "name": "Yves Saint Laurent Y Le Parfum",
+     "strength": 3,
+     "sweet": 4,
+     "year": "2021"
+    },
+    {
+     "best_for": "ဆောင်း ည",
+     "character": "Lavender၊ oud၊ incense နဲ့ အနက်ဆုံး၊ ဆပ်ပြာသန့် ယောကျ်ားဆန်",
+     "fresh": 2,
+     "group": "Line ထဲက version",
+     "is_self": false,
+     "longevity": "၆–၈ နာရီ ⚠️",
+     "name": "Yves Saint Laurent Y Elixir",
+     "strength": 4,
+     "sweet": 3,
+     "year": "2024"
+    },
+    {
+     "best_for": "ဘက်စုံ",
+     "character": "Bergamot၊ ငရုတ်ကောင်းနဲ့ ambroxan/vanilla၊ လူသုံး ပိုများ",
+     "fresh": 4,
+     "group": "ယှဉ်ပြိုင်ဘက်",
+     "is_self": false,
+     "longevity": "၇–၁၀ နာရီ ⚠️",
+     "name": "Dior Sauvage Eau de Parfum",
+     "strength": 4,
+     "sweet": 3,
+     "year": "2018"
+    },
+    {
+     "best_for": "ရုံး formal၊ အသက် ၂၅+",
+     "character": "Citrus နဲ့ incense/သစ်သား ပိုရင့်ကျက် formal၊ ချိုမှု နည်း",
+     "fresh": 3,
+     "group": "ယှဉ်ပြိုင်ဘက်",
+     "is_self": false,
+     "longevity": "၇–၉ နာရီ ⚠️",
+     "name": "Bleu de Chanel Eau de Parfum",
+     "strength": 3,
+     "sweet": 2,
+     "year": "2014"
+    },
+    {
+     "best_for": "နေ့စဉ်၊ နွေ၊ ဘတ်ဂျက်",
+     "character": "ပင်လယ်နံ့ ပိုထင်ရှား၊ ပိုပေါ့၊ ဈေးသက်သာ",
+     "fresh": 4,
+     "group": "ယှဉ်ပြိုင်ဘက်",
+     "is_self": false,
+     "longevity": "၆–၈ နာရီ",
+     "name": "Versace Pour Homme Dylan Blue Eau de Toilette",
+     "strength": 3,
+     "sweet": 3,
+     "year": "2016"
+    }
+   ],
+   "concentration": "EDP",
+   "concept": "Y က Yves Saint Laurent ရဲ့ ပထမစာလုံးဖြစ်သလို 'Why?' (ဘာလို့လဲ) ဆိုတဲ့ မေးခွန်းနဲ့လည်း အသံတူပြီး 'Why not?' လို့ အမြဲမေးတဲ့ စမ်းသပ်ဖန်တီးသူ ယောကျ်ားအတွက်ပါ။ YSL ရဲ့ ဂန္ထဝင် တီရှပ်အဖြူနဲ့ ဂျာကင်အနက်ကို အနံ့နဲ့ ပြန်ဖော်ထားတာပါ။ EDP ကြော်ငြာ မျက်နှာက 2018 မှာ Adam Levine (Maroon 5)၊ 2020 ကစပြီး Lenny Kravitz ပါ။",
+   "concept_title": "White T-shirt & Black Jacket · Show Y",
+   "cons": [
+    "Synthetic ပန်းသီးနံ့ကို 'ရှမ်ပူနံ့' လို ဆိုသူ ရှိ",
+    "များများဖျန်းရင် ပြင်းလွန်းပြီး ချိုလွန်း",
+    "နေပူကြီးထဲ လေးလံနိုင်",
+    "ဈေး Dylan Blue ထက် ကြီး",
+    "အတုများ — ဈေးပေါတာ သတိ"
+   ],
+   "createdAt": 1792920120396,
+   "deep": [
+    {
+     "body": "YSL Beauty က Y Eau de Toilette ကို 2017 မှာ အရင်ထုတ်ပြီး Y Eau de Parfum ကို 2018 မှာ ဆက်ထုတ်ခဲ့တယ်။ WWD သတင်းအရ တရုတ်မှာ 2018 မေလ အရင်ထွက်ပြီး Fragrantica အရ ကမ္ဘာတစ်ဝှမ်း 2018 စက်တင်ဘာမှာ ထွက်တယ်။ ပုလင်း ပိုရင့်တဲ့ အပြာနဲ့ EDT ထက် ပိုနက်၊ ပိုချို၊ ပိုပြင်းအောင် လုပ်ထားတယ်။\n\nYSL ရဲ့ ယောကျ်ားရေမွေးတွေထဲမှာ L'Homme နဲ့ La Nuit de L'Homme တို့က ရင့်ကျက်တဲ့ ပုံစံဖြစ်ပြီး Y ကတော့ Generation Y လူငယ်တွေကို ရည်ရွယ်တယ်။ အဲ့အချိန်က Bleu de Chanel နဲ့ Dior Sauvage တို့ blue ရေမွေး ဈေးကွက်ကို လွှမ်းမိုးနေချိန်ပါ။ WWD အရ Y EDT က အမေရိကန်မှာ ထွက်တဲ့နှစ်မှာပဲ ယောကျ်ား prestige ရေမွေး ထိပ်ဆုံး ၆ ခုထဲ ဝင်ပြီး အကောင်းဆုံး ယောကျ်ားရေမွေး launch ဖြစ်ခဲ့တယ်။\n\nEDP က Y line ထဲမှာ လူကြိုက်အများဆုံး ဖြစ်လာပြီး ယခုစစ်ချိန်မှာ Fragrantica 4.41/5 (vote ၂၉,၀၀၀ ကျော်)၊ Parfumo ယောကျ်ားရေမွေး အဆင့် ၅၂ ရထားတယ်။ နောက်ပိုင်း Y Live၊ Y Le Parfum၊ Y EDP Intense၊ Y Elixir စတဲ့ version တွေ ဆက်ထွက်လာတယ်။",
+     "bullets": [],
+     "key": "history",
+     "title": "ထွက်ရှိမှုနဲ့ ဇာတ်လမ်း"
+    },
+    {
+     "body": "Y EDP ကို ပြင်သစ် master perfumer Dominique Ropion က အဓိက ဖန်တီးပြီး Fragrantica အရ Claire Liégent လည်း ပူးတွဲ ဖန်တီးတယ်။ YSL ကိုယ်တိုင်ကလည်း 'နာမည်ကျော် perfumer Dominique Ropion ဖန်တီးတယ်' လို့ ကြော်ငြာတယ်။ Y line တစ်ခုလုံးကို သူ ဦးဆောင်တယ်။\n\nRopion က ကမ္ဘာ့ အကျော်ကြားဆုံး perfumer တွေထဲက တစ်ယောက်ပါ။ ⚠️ သူ (တခြား perfumer တွေနဲ့ ပူးတွဲ) ဖန်တီးခဲ့တယ်လို့ လူသိများတာတွေက Lancôme La Vie Est Belle၊ Paco Rabanne Invictus၊ Frédéric Malle Portrait of a Lady စတာတွေပါ — ဗီဒီယိုမှာ မပြောခင် ထပ်စစ်ပါ။\n\nသူ့ style က fresh နဲ့ sweet ကို ပေါင်းပြီး လူအများကြိုက်အောင် ချောချောမွေ့မွေ့ လုပ်တတ်တာပါ။ Y EDP မှာ ပန်းသီး/ဂျင်း လတ်ဆတ်မှု (အလင်း) နဲ့ amberwood/tonka နက်နဲမှု (အရိပ်) ကို ယှဉ်ထားတာ — YSL ရဲ့ 'light and shadow' concept — ကို ပြတယ်။ Forbes အရ Ropion က black jeans နဲ့ တီရှပ်အဖြူရဲ့ အနံ့ကို ဖန်တီးဖို့ ရည်ရွယ်ခဲ့တယ်။\n\nဗီဒီယိုမှာ ပြောစရာ — 'ဒီရေမွေးကို ကမ္ဘာ့ အကျော်ကြားဆုံး perfumer တွေထဲက Dominique Ropion က ဖန်တီးထားတာပါ။'",
+     "bullets": [],
+     "key": "perfumer",
+     "title": "ဖန်တီးသူ"
+    },
+    {
+     "body": "Y ပုလင်းကို Suzanne Dalton က ဒီဇိုင်းဆွဲတယ်။ YSL က 'ထက်မြက်တဲ့ အပြာရောင် မှန် monolith' လို့ ခေါ်ပြီး အလင်းနဲ့ အရိပ် concept ကို ပြတယ် — အပြာရင့်ကနေ ရောင်ပြေးသွားတဲ့ မှန်ကို အကွဲကြောင်း (notch) တစ်ခု ဖြတ်ထားပြီး အထဲမှာ သတ္တု Y စာလုံး ပေါ်နေတယ်။ EDP ပုလင်းက EDT ထက် အပြာ ပိုရင့်တယ်။ ဖုံးက အနက်နဲ့ ငွေရောင်၊ ဘူးကလည်း ပုလင်းအရောင်အတိုင်း ငွေရောင် Y စာလုံးနဲ့။\n\nဆိုဒ် — 10ml၊ 40ml၊ 60ml၊ 100ml၊ 200ml နဲ့ 150ml refill (YSL US ဆိုက်)။ 150ml refill နဲ့ ဘူးပေါ်မှာ 'refillable' လို့ ရေးထားတဲ့ 10ml/60ml/100ml ပုလင်းတွေကို ပြန်ဖြည့်လို့ရတယ်။ YSL အရ refill သုံးရင် မှန် ၅၉%၊ သတ္တု ၇၃%၊ ပလတ်စတစ် ၉% သက်သာတယ်။\n\nBatch code ကို ဘူးအောက်ခြေနဲ့ ပုလင်းအောက်ခြေမှာ ယှဉ်ကြည့်ပါ ⚠️။ လက်ထဲမှာ မှန်ထူ လေးလံပြီး Y စာလုံး ပြတ်ပြတ်သားသား ရှိတာက ဈေးကြီးဟန် ပေးတယ် — video မှာ Y စာလုံးကို အလင်းနဲ့ အနီးကပ် ပြပါ။",
+     "bullets": [],
+     "key": "design",
+     "title": "ပုလင်းနဲ့ ထုပ်ပိုးမှု"
+    },
+    {
+     "body": "2017 Y EDT ထွက်တုန်းက YSL က 'Y-crew' ဆိုပြီး rapper Loyle Carner၊ AI သုတေသီ Alexandre Robicquet၊ ပန်းပုဆရာ David Alexander Flinn တို့ကို မျက်နှာအဖြစ် သုံးတယ်၊ 2017 အောက်တိုဘာမှာ Maroon 5 ရဲ့ Adam Levine ပါ ဝင်လာတယ်။\n\nY EDP ရဲ့ ကြော်ငြာ (TV၊ print၊ digital) ကို Colin Tilley က ရိုက်ပြီး Adam Levine ပါဝင်ကာ 2018 ဩဂုတ် ၁၈ မှာ ကမ္ဘာတစ်ဝှမ်း ထွက်တယ်။ Levine က Y EDP ကို 'အင်အားကြီးတယ်' လို့ ဖော်ပြတယ်။ 2019 မှာ ဒါရိုက်တာ Kim Chapiron ရိုက်တဲ့ ကြော်ငြာအသစ် ထွက်တယ်။\n\n2020 စက်တင်ဘာကစပြီး rock ဂီတကျော် Lenny Kravitz က Y ရဲ့ မျက်နှာ ဖြစ်လာပြီး Y EDP၊ EDT၊ Le Parfum နဲ့ 2023 Y EDP Intense အထိ ဆက်ကိုယ်စားပြုတယ်။ YSL ဆိုက်ရဲ့ slogan က 'Show your power. Show Y.'\n\nVideo hook အကြံ — 'Adam Levine နဲ့ Lenny Kravitz နှစ်ယောက်လုံး ကြော်ငြာခဲ့တဲ့ ရေမွေး' လို့ စပြီး ပုလင်းထဲက Y စာလုံးကို အနီးကပ် ပြပါ။",
+     "bullets": [],
+     "key": "campaign",
+     "title": "ကြော်ငြာနဲ့ မျက်နှာ"
+    },
+    {
+     "body": "Y က Yves Saint Laurent ရဲ့ ပထမစာလုံး ဖြစ်သလို အင်္ဂလိပ်လို 'Why' (ဘာလို့လဲ) နဲ့ အသံတူတယ်။ FASHION Magazine အရ YSL က Y ကို 'Why not?' လို့ အမြဲမေးတဲ့ စမ်းသပ်ဖန်တီးသူ ယောကျ်ားအတွက်လို့ ဆိုတယ်။ Generation Y (millennial) လူငယ်တွေကိုလည်း ရည်ညွှန်းတယ်။\n\nရောထွေးတတ်တာတွေ —\n• Y Eau de Toilette — ပုလင်း အပြာဖျော့၊ ပိုလန်း ပိုပေါ့၊ Longevity နည်း။\n• Y Le Parfum — ပုလင်း အနက်၊ ပိုနက် ပိုချို။\n• Y Eau de Parfum Intense — ညအပြာရောင် ကြည်ကြည် ပုလင်း၊ lavender နဲ့ patchouli ပို။\n• Y Elixir — oud နဲ့ incense ပါတဲ့ အနက်ဆုံး Y။\n\nCustomer က 'YSL Y' လို့ပဲ မေးရင် EDP (အပြာရင့်ပုလင်း) လား သေချာ မေးပါ — လူအများ ကြိုက်တာ EDP ပါ။",
+     "bullets": [],
+     "key": "name",
+     "title": "နာမည်ရဲ့ အဓိပ္ပါယ်"
+    },
+    {
+     "body": "Fragrantica အရ Top ၃၊ Heart ၃၊ Base ၅ မျိုး ပါတယ်။ YSL က formula ရဲ့ ၉၅% ကို ထုတ်ဖော်တယ်လို့ ဆိုပြီး olfactory family ကို Aromatic Fougère လို့ သတ်မှတ်တယ်။ ⚠️ Cedar ကို database တချို့မှာ မပါဘူး။",
+     "bullets": [
+      "Apple — ပန်းသီးစိမ်း accord (synthetic)၊ ချိုချဉ် ရွှမ်းရွှမ်း crunchy။ ဒီရေမွေးကို တခြား blue တွေနဲ့ ခွဲခြားစေတဲ့ note၊ EDT ထက် EDP မှာ ပိုထင်ရှား၊ ပထမ ၃၀ မိနစ် အသိသာဆုံး။",
+      "Ginger — ဂျင်း essence၊ စပ်ရှိန်းပြီး လန်းဆန်းတဲ့ အမွှေးအကြိုင်။ ပန်းသီးရဲ့ ချိုမှုကို ဖြတ်ပြီး fresh spicy accord ကို ပေးတယ်။",
+      "Bergamot — ရှောက်မျိုး citrus အခွံဆီ၊ ပထမ မိနစ်ပိုင်းမှာ တောက်ပမှု ပေးပြီး မြန်မြန် ပြယ်တယ်။",
+      "Sage — အပင်ရွက် aromatic၊ သန့်ရှင်းပြီး ဆပ်ပြာ/မြက်ပင်နံ့ ပါတယ်။ YSL က 'Vibrant Sage' လို့ အဓိက note အဖြစ် ဖော်ပြ၊ ၃၀ မိနစ်ကနေ ၃ နာရီကြား အထင်ရှားဆုံး။",
+      "Juniper Berries — ဂျင်အရက် လုပ်တဲ့ အသီး၊ ထင်းရှူးနံ့ပါတဲ့ အစိမ်း resin နံ့။ Sage နဲ့တွဲပြီး ယောကျ်ားဆန်မှု ပေးတယ်။",
+      "Geranium — ပန်းရွက်ဆီ၊ နှင်းဆီလို ပန်းနံ့နဲ့ အစိမ်းနံ့ ရော။ YSL က 'crisp geranium' လို့ ဆိုပြီး heart ကို သန့်ရှင်းစေတယ်။",
+      "Amberwood — ခြောက်သွေ့ပြီး ပြန့်တာ ကောင်းတဲ့ synthetic woody-amber (YSL ရဲ့ 'Sensual Woods' accord)။ Projection နဲ့ Longevity ကို အဓိက ပေးတဲ့ note။",
+      "Tonka Bean — ဗနီလာ၊ ကိုတ်မုန့်လို ချိုနွေး။ YSL က 'warm tonka' လို့ ဆိုပြီး drydown ကို ချိုစေတယ်။",
+      "Vetiver — မြက်မြစ်ဆီ၊ မြေနံ့နဲ့ မီးခိုးနံ့ နည်းနည်း။ Base ကို ခြောက်သွေ့ နက်နဲစေတယ်။",
+      "Olibanum — Frankincense (လောဘန်) အစေး၊ အမွှေးတိုင် မီးခိုးလို ပါးပါးလေး။ အေးတဲ့ ရာသီမှာ ပိုသိသာတယ်လို့ reviewer တစ်ယောက် ပြောတယ်။",
+      "Cedar — ခဲတံသစ်သားလို ခြောက်သွေ့ သစ်နံ့ ⚠️ (Fragrantica မှာပဲ ပါ)။"
+     ],
+     "key": "notes_detail",
+     "title": "Note တစ်ခုချင်း အသေးစိတ်"
+    },
+    {
+     "body": "Y EDP က ချိုလန်းတဲ့ အစကနေ သန့်ရှင်း aromatic အလယ်၊ ချိုနွေးတဲ့ သစ်သား base ဆီ ပြောင်းတယ်။",
+     "bullets": [
+      "၀–၅ မိနစ်: ပန်းသီးစိမ်း၊ ဂျင်း၊ bergamot ရဲ့ ချိုလန်း စပ်ရှိန်းမှု အပြင်းဆုံး။ နှာခေါင်းနား ကပ်ရင် ချိုလွန်းတယ် ထင်ရနိုင်။",
+      "၅–၃၀ မိနစ်: Bergamot ပြယ်၊ ဂျင်းနဲ့ ပန်းသီး ကျန်ပြီး sage စဝင်လာ။",
+      "၃၀ မိနစ် – ၂ နာရီ: Sage၊ juniper၊ geranium ရဲ့ သန့်ရှင်း aromatic အလယ်ပိုင်း၊ ရေချိုးပြီးခါစ ခံစားမှု။ Projection အကောင်းဆုံး — ၃–၄ ပေ အထိ ⚠️ (reviewer တစ်ယောက်ရဲ့ အပြော)။",
+      "၂–၅ နာရီ: Amberwood နဲ့ tonka ရဲ့ ချိုနွေးတဲ့ သစ်သားနံ့ ပေါ်လာ၊ projection လက်တစ်ကမ်းခန့်။",
+      "၅ နာရီ+: Tonka၊ vetiver၊ olibanum ရဲ့ ပျော့ပျောင်းတဲ့ အရေပြားနံ့။ အင်္ကျီပေါ်မှာ အကြာကြီး ကျန်တယ်။"
+     ],
+     "key": "journey",
+     "title": "အနံ့ခရီး မိနစ်အလိုက်"
+    },
+    {
+     "body": "Parfumo community ပျမ်းမျှ Longevity 7.6/10 (rating ၄,၁၀၀ ကျော်)၊ Sillage 7.4/10 — fresh ရေမွေးအတွက် အလွန်ကောင်းတဲ့ အဆင့်ပါ။ Review အများစုက ၈–၁၀ နာရီ ခံတယ်လို့ ပြောပြီး တချို့က ၉–၁၁ နာရီ၊ အင်္ကျီပေါ် ရက်နဲ့ချီ ကျန်တယ်လို့ ပြောတယ်။ တခြားတစ်ဖက်မှာ ၃–၆ နာရီပဲ ရတယ်ဆိုသူလည်း ရှိ ⚠️။ Y Le Parfum နဲ့ ယှဉ်ရင် EDP က ပိုကြာ ပိုသိသာတယ်လို့ bestmenscolognes က ဆိုတယ်။\n\nProjection — ပထမ ၂ နာရီ ပြင်းပြီး ဘေးကလူ သိသာ၊ နောက် လက်တစ်ကမ်းအတွင်း ကပ်လာ။ အင်္ကျီပေါ် ကပ်တာ ကောင်းလို့ များများ မဖျန်းရ။\n\nအပူမှာ — ချိုတဲ့ ပန်းသီး/tonka ကြောင့် နေပူကြီးထဲ ၂ ချက်ထက် မပိုသင့်ပါ၊ Parfumo reviewer တစ်ယောက်က အပူပိုင်း ရာသီဥတုမှာ မဝတ်ချင်ဘူးလို့တောင် ရေးထားတယ်။ လေအေးပေး အခန်းထဲမှာ အကောင်းဆုံး၊ မိုးရာသီ ညနေနဲ့ ဆောင်းမှာ ၃ ချက်။ လည်ပင်းနောက်နဲ့ အင်္ကျီ ကော်လာနား ဖျန်းပါ။\n\nEDP အတွက် တရားဝင် reformulation သတင်း မတွေ့ပါ ⚠️။",
+     "bullets": [],
+     "key": "performance",
+     "title": "Longevity & Projection"
+    },
+    {
+     "body": "အသက် ၁၈–၃၅ ယောကျ်ားလေး၊ casual နဲ့ smart casual ဝတ်တဲ့သူ၊ ချီးမွမ်းခံရချင်ပြီး Sauvage လောက် လူမသုံးတဲ့ အနံ့ ရှာသူ။ ရေမွေး စသုံးသူအတွက်လည်း ဘေးကင်းပေမယ့် ချက်ရေ သတိထားရမယ်။\n\nအခါသမယ (၅ အနက်) — Date ၅၊ ကျောင်း ၅၊ လက်ဆောင် ၅၊ ရုံး ၄၊ နေ့စဉ် ၄၊ ညပွဲ ၄၊ နေပူထဲ/အားကစား ၂။ Fragrantica vote — နေ့ 18k၊ ည 14.3k၊ နေ့ရော ညပါ ရတယ်။ ရာသီ vote — နွေဦး 18.6k၊ နွေ 18.4k၊ ဆောင်းဦး 15.3k၊ ဆောင်း 9.8k။\n\nရာသီ — နွေ ၃/၅ (မနက်/လေအေးထဲ၊ ၁–၂ ချက်)၊ မိုး ၄/၅၊ ဆောင်း ၅/၅။\n\nဘယ်သူ မဝယ်သင့်လဲ — ချိုတဲ့ synthetic ပန်းသီးနံ့ မကြိုက်သူ၊ ရင့်ကျက်ပြီး formal ကျတဲ့ အနံ့ ရှာသူ (ဒါဆို Bleu de Chanel)၊ ရိုးရိုး ပေါ့ပေါ့ လိုသူ (ဒါဆို Y EDT)။\n\nဝတ်စုံ — YSL concept အတိုင်း တီရှပ်အဖြူ၊ ဂျာကင်/ဂျင်းအနက်နဲ့ အကိုက်ဆုံး — video ရိုက်ရင် ဒီပုံစံ ဝတ်ပါ။",
+     "bullets": [],
+     "key": "audience",
+     "title": "ဘယ်သူ ဘယ်အချိန်"
+    },
+    {
+     "body": "ချီးမွမ်းချက် — 'ဘယ်နေရာမဆို ဘယ်တော့မှ မမှားဘူး' (Fragrantica reviewer)၊ 'Sauvage လို ချီးမွမ်းခံရပေမယ့် လူတိုင်း မသုံး' (Parfumo reviewer)။ Fragrantica မှာ love vote 18.2k ရထားပြီး Y line ထဲမှာ လူကြိုက်အများဆုံး၊ အမှတ်အမြင့်ဆုံး ဖြစ်တယ်လို့ Parfumo reviewer က ဆိုတယ်။ Performance ကို 'beast' လို့ ချီးကျူးကြတယ်။\n\nဝေဖန်ချက် — 'ပန်းသီးရှမ်ပူကို ရေမွေးလုပ်ထားသလို'၊ 'တစ်မျိုးတည်း ချိုလွန်း'၊ 'လူငယ် cologne' လို့ ပြောသူ ရှိတယ်။ Parfumo accord မှာ 'Synthetic' နဲ့ 'Sweet' ပါတာ ဒါကို ပြတယ်။ ဈေးကြီးတယ်လို့ ပြောသူလည်း ရှိ။\n\nချီးမွမ်းခံရမှု — အမျိုးသမီးတွေက citrus/ပန်းသီး အစကို ကြိုက်ကြလို့ compliment အရမ်းရတယ်လို့ reviewer တွေ ပြောတယ်။\n\nနှိုင်းယှဉ်ချက် — blue ရေမွေး စစ်ပွဲထဲမှာ Dylan Blue၊ Bleu de Chanel၊ Sauvage တို့နဲ့ ယှဉ်ခံရပြီး ပန်းသီး/ဂျင်း ကြောင့် သူတို့နဲ့ မတူဘဲ ထူးခြားတယ်လို့ Parfumo reviewer က ရေးတယ်။",
+     "bullets": [],
+     "key": "community",
+     "title": "Community အမြင်"
+    },
+    {
+     "body": "Y line မှာ version အများကြီး ရှိပြီး အားလုံးကို Dominique Ropion ဦးဆောင်တယ်။",
+     "bullets": [
+      "Y Eau de Toilette (2017) — ပထမဆုံး Y၊ ပိုလန်း ပိုပေါ့၊ bergamot ပိုထင်ရှား၊ Longevity ၅–၇ နာရီခန့်။ နေပူ နေ့ဘက် ရုံးအတွက်။",
+      "Y Eau de Parfum (2018) — ဒီရေမွေး၊ ပန်းသီး၊ sage၊ amberwood၊ tonka။ အားလုံးထဲ လူကြိုက်အများဆုံး။",
+      "Y Live (2019) — ပိုပြင်းတဲ့ version ⚠️၊ Adam Levine ကြော်ငြာ။ အခု ရှာရခက်နိုင်။",
+      "Y Le Parfum (2021) — ပုလင်းအနက်၊ ပိုနက် ပိုချို၊ ညဘက်/Date။ 2025 မှာ pine note နဲ့ ပြန်ပြင်ထုတ်တယ် ⚠️။",
+      "Y Eau de Toilette (2022) — EDT ကို ပိုကြာကြာ ခံအောင် ပြန်ပြင်ထုတ် ⚠️။",
+      "Y Eau de Parfum Intense (2023) — juniper၊ bergamot၊ ginger နဲ့ lavender၊ geranium၊ clary sage၊ patchouli overdose၊ ညအပြာရောင် ပုလင်း၊ Lenny Kravitz ကြော်ငြာ၊ 60/100ml။",
+      "Y Elixir (2024) — lavender၊ geranium၊ natural oud၊ incense၊ အနက်ဆုံး Y၊ ဆောင်းည။",
+      "ဘာကို ဝယ်မလဲ — ပထမဆုံး Y ဆို EDP (အလယ်အလတ်၊ ဘက်စုံ)၊ နေပူ/ရုံး ပေါ့ပေါ့ဆို EDT၊ ညဘက် ပိုနက်ချင်ရင် Le Parfum သို့ Elixir။"
+     ],
+     "key": "versions",
+     "title": "Line ထဲက version တွေ"
+    },
+    {
+     "body": "တရားဝင်ဈေး — UK RRP 100ml £115 (Lookfantastic မှာ £92 လျှော့ဈေး)၊ ထိုင်း YSL ဆိုက် 100ml ฿6,100 (လျှော့ဈေး ฿5,185)၊ 150ml refill ฿7,100။ ⚠️ ဈေးက နိုင်ငံနဲ့ အချိန်အလိုက် ကွာ။ 200ml ပုလင်းကြီးက decant ခွဲဖို့ အတန်ဆုံး။\n\nDecant အကြံ — လူကြိုက်များပြီး Performance ကောင်းလို့ 5ml နဲ့ 10ml decant ရောင်းကောင်းတယ်။ Projection ပြင်းလို့ 5ml နဲ့တင် ကြာကြာ သုံးရတယ်လို့ Customer ကို ပြောလို့ရတယ်။ Tester ပုလင်းတွေက ဈေးသက်သာပေမယ့် အစစ်/အတု ပိုစစ်ရ။\n\nအစစ်/အတု အကျဉ်း — batch code ဘူး ↔ ပုလင်း တူရမယ်၊ ပုလင်းထဲ Y စာလုံး ပြတ်သားပြီး notch ဖြတ်ချက် ညီညာရမယ်၊ အပြာ ရောင်ပြေး ချောမွေ့ရမယ်၊ ဖုံး တင်းကျပ်ရမယ်၊ ဘူးပေါ်က ingredients စာရင်း သပ်ရပ်ရမယ်။ Refillable ပုလင်းဆို ဘူးပေါ်မှာ 'refillable' ရေးထားတယ်။\n\nမပြောသင့်တာ — '၂၄ နာရီ ခံတယ်'၊ 'Y Le Parfum/Elixir နဲ့ အတူတူပဲ'၊ 'Sauvage ထက် အမြဲ ပိုကောင်းတယ်' လို မပြောပါနဲ့။",
+     "bullets": [],
+     "key": "buying",
+     "title": "ဝယ်ယူမှု အကြံပြုချက်"
+    }
+   ],
+   "family": "Aromatic Fougère",
+   "faq": [
+    {
+     "a": "EDT က ပိုလန်း ပိုပေါ့ပြီး bergamot ပိုထင်ရှားပါတယ်။ EDP က ပန်းသီးနဲ့ tonka ကြောင့် ပိုချို၊ ပိုနက်၊ ပိုကြာကြာ ခံပါတယ်။ ပုလင်းလည်း EDP က အပြာ ပိုရင့်ပါတယ်။",
+     "q": "YSL Y EDT နဲ့ EDP ဘာကွာလဲ?"
+    },
+    {
+     "a": "Community ပျမ်းမျှ ၈–၁၀ နာရီလောက် ခံပြီး အင်္ကျီပေါ်ဆို ပိုကြာပါတယ်။ ကျွန်တော်ကိုယ်တိုင် စမ်းတော့ {HOURS} နာရီ ခံပါတယ်။",
+     "q": "ဘယ်လောက်ကြာကြာ ခံလဲ?"
+    },
+    {
+     "a": "ရပေမယ့် ၁–၂ ချက်ပဲ ဖျန်းပါ။ Projection ပြင်းပြီး ချိုလို့ များရင် လေးလံပါတယ်။ လေအေးပေး အခန်း၊ ညနေ၊ မိုးနဲ့ ဆောင်းမှာ အကောင်းဆုံးပါ။",
+     "q": "နေပူထဲ သုံးလို့ရလား?"
+    },
+    {
+     "a": "ဘက်စုံ နေ့ရောညပါ သုံးချင်ရင် EDP ပါ။ Le Parfum က ပိုနက် ပိုချိုပြီး ညဘက် ပိုသင့်ပါတယ်။ Performance က EDP ပိုကောင်းတယ်လို့ ပြောသူ များပါတယ်။",
+     "q": "Y EDP နဲ့ Y Le Parfum ဘယ်ဟာ ယူရမလဲ?"
+    },
+    {
+     "a": "Sauvage က ငရုတ်ကောင်းနဲ့ ambroxan ပို၊ လူသုံးလည်း ပိုများပါတယ်။ Y EDP က ပန်းသီးနဲ့ sage ကြောင့် ပိုချိုပြီး လူသုံးနည်းလို့ ပိုထူးခြားပါတယ်။ Decant နဲ့ နှစ်ခုလုံး စမ်းကြည့်ပြီး ရွေးလို့ရပါတယ်။",
+     "q": "Sauvage နဲ့ ဘယ်ဟာ ကောင်းလဲ?"
+    },
+    {
+     "a": "Projection ပြင်းလို့ 5ml ({PRICE_5ML}) နဲ့တင် အကြာကြီး သုံးရပါတယ်။ ကြိုက်ရင် 10ml ({PRICE_10ML})၊ ပုလင်းအပြည့် {PRICE_FULL} ပါ။",
+     "q": "Decant ဘယ်ဆိုဒ် ယူရမလဲ?"
+    }
+   ],
+   "gender": "ယောကျ်ားလေး (Men)",
+   "hook": "Dior Sauvage လောက် လူတိုင်း မသုံးဘဲ ချီးမွမ်းခံရ လွယ်တယ်လို့ ပြောကြတဲ့ ရေမွေး — YSL Y EDP ကို စမ်းကြည့်ရအောင်!",
+   "longevity_text": "၈–၁၀ နာရီ",
+   "meters": {
+    "day": 56,
+    "longevity": 4,
+    "masculine": 90,
+    "projection": 4,
+    "sweetness": 3
+   },
+   "myanmar_tip": "Projection ပြင်းလို့ အပူထဲမှာ ၂ ချက် (လည်ပင်းနောက်၊ အင်္ကျီ) လုံလောက်တယ်၊ နွေနေ့လည် နေပူထဲ များများဖျန်းရင် ပန်းသီးချိုနံ့ လေးလံနိုင်တယ်။ လေအေးပေး ရုံးခန်း၊ မိုးနဲ့ ဆောင်း ညနေတွေမှာ ၃ ချက်နဲ့ အကောင်းဆုံး။",
+   "name": "Yves Saint Laurent Y Eau de Parfum",
+   "notes": [
+    {
+     "certain": true,
+     "note": "Apple",
+     "smell": "ပန်းသီးစိမ်း ကိုက်လိုက်သလို ချိုချဉ် ရွှမ်းရွှမ်း",
+     "stage": "Top"
+    },
+    {
+     "certain": true,
+     "note": "Ginger",
+     "smell": "ဂျင်းလတ် ခွဲလိုက်သလို စပ်ရှိန်းပြီး လန်းဆန်း",
+     "stage": "Top"
+    },
+    {
+     "certain": true,
+     "note": "Bergamot",
+     "smell": "ရှောက်ခွံ လတ်လတ်ဆတ်ဆတ်",
+     "stage": "Top"
+    },
+    {
+     "certain": true,
+     "note": "Sage",
+     "smell": "အပင်ရွက်စိမ်းလို သန့်ရှင်း၊ ဆပ်ပြာနံ့ နည်းနည်း",
+     "stage": "Heart"
+    },
+    {
+     "certain": true,
+     "note": "Juniper Berries",
+     "smell": "ထင်းရှူးနံ့ပါတဲ့ အစိမ်း resin အသီးနံ့",
+     "stage": "Heart"
+    },
+    {
+     "certain": true,
+     "note": "Geranium",
+     "smell": "နှင်းဆီလို ပန်းနံ့နဲ့ အစိမ်းနံ့ ရော",
+     "stage": "Heart"
+    },
+    {
+     "certain": true,
+     "note": "Amberwood",
+     "smell": "ခြောက်သွေ့တဲ့ သစ်သား၊ amber နွေးနွေး၊ ပြန့်တာ ကောင်း",
+     "stage": "Base"
+    },
+    {
+     "certain": true,
+     "note": "Tonka Bean",
+     "smell": "ဗနီလာ၊ ကိုတ်မုန့်လို ချိုနွေး",
+     "stage": "Base"
+    },
+    {
+     "certain": true,
+     "note": "Vetiver",
+     "smell": "မြက်မြစ်လို မြေနံ့၊ မီးခိုးနံ့ နည်းနည်း",
+     "stage": "Base"
+    },
+    {
+     "certain": true,
+     "note": "Olibanum",
+     "smell": "အမွှေးတိုင်/လောဘန် မီးခိုးနံ့ ပါးပါး",
+     "stage": "Base"
+    },
+    {
+     "certain": false,
+     "note": "Cedar",
+     "smell": "ခဲတံသစ်သားလို ခြောက်သွေ့ သစ်နံ့",
+     "stage": "Base"
+    }
+   ],
+   "occasions": [
+    {
+     "fit": 4,
+     "note": "၁–၂ ချက်ဆို သန့်ရှင်း သပ်ရပ်၊ များရင် ပြင်း",
+     "occasion": "ရုံး"
+    },
+    {
+     "fit": 5,
+     "note": "လူငယ်ကြိုက် ချိုလန်းတဲ့ အနံ့",
+     "occasion": "ကျောင်း / University"
+    },
+    {
+     "fit": 4,
+     "note": "ဘယ်အဝတ်နဲ့မဆို ရ",
+     "occasion": "နေ့စဉ်"
+    },
+    {
+     "fit": 5,
+     "note": "ချီးမွမ်းခံရလွယ်ဆုံး Y",
+     "occasion": "Date"
+    },
+    {
+     "fit": 4,
+     "note": "Projection ကောင်းလို့ လူစုထဲ သိသာ",
+     "occasion": "ညပွဲ / ပါတီ"
+    },
+    {
+     "fit": 5,
+     "note": "YSL နာမည်နဲ့ ဘေးကင်း",
+     "occasion": "လက်ဆောင်"
+    },
+    {
+     "fit": 2,
+     "note": "ပြင်းပြီး ချိုလို့ မသင့်",
+     "occasion": "နေပူထဲ / အားကစား"
+    }
+   ],
+   "one_liner": "ပန်းသီးစိမ်း ကိုက်လိုက်သလို ချိုချဉ်လန်းဆန်းမှုနဲ့ ဂျင်း စပ်ရှိန်းလေး စပြီး၊ sage ရဲ့ သန့်ရှင်းတဲ့ အပင်နံ့ ဖြတ်ကာ နောက်ဆုံး amberwood နဲ့ tonka ရဲ့ ချိုနွေးတဲ့ သစ်သားနံ့ ကျန်ခဲ့တယ်။",
+   "origin": "web",
+   "perfumer": "Dominique Ropion · Claire Liégent",
+   "phases": [
+    {
+     "analogy": "ပန်းသီးစိမ်းကို ဂျင်းနဲ့ တွဲကိုက်သလို",
+     "end_h": 0.5,
+     "feel": "ချို၊ လန်း၊ စပ်ရှိန်း",
+     "stage": "Top",
+     "start_h": 0,
+     "summary": "Apple · Ginger · Bergamot",
+     "time_text": "ဖျန်းပြီး ပထမ မိနစ် ၃၀"
+    },
+    {
+     "analogy": "ဆပ်ပြာသန့်သန့်ထဲ အပင်ရွက်စိမ်း",
+     "end_h": 3,
+     "feel": "သန့်ရှင်း၊ aromatic",
+     "stage": "Heart",
+     "start_h": 0.5,
+     "summary": "Sage · Juniper Berries · Geranium",
+     "time_text": "မိနစ် ၃၀ ကနေ ၃ နာရီ"
+    },
+    {
+     "analogy": "သစ်သားဗီရိုထဲက အင်္ကျီသန့်ပေါ် ဗနီလာ နည်းနည်း",
+     "end_h": 9,
+     "feel": "ချိုနွေး၊ သစ်သား",
+     "stage": "Base",
+     "start_h": 3,
+     "summary": "Amberwood · Tonka Bean · Vetiver · Olibanum · Cedar",
+     "time_text": "၃ နာရီ – ပျောက်တဲ့အထိ"
+    }
+   ],
+   "price": "",
+   "projection_text": "ပြင်းတယ်၊ သိသာတယ်",
+   "pros": [
+    "Performance အင်အားကြီး (Parfumo Longevity 7.6/10၊ Sillage 7.4/10)",
+    "Fragrantica 4.41/5 (vote ၂၉,၀၀၀ ကျော်) — အလွန် လူကြိုက်များ",
+    "ပန်းသီး၊ ဂျင်း၊ sage ကြောင့် တခြား blue တွေနဲ့ မတူ ထူးခြား",
+    "ရုံး၊ Date၊ ညပွဲ — နေ့ရော ညပါ ရ",
+    "Refill ပြန်ဖြည့်လို့ရတဲ့ ပုလင်း"
+   ],
+   "query": "YSL Y EDP",
+   "ref_price": "UK RRP 100ml £115 · ထိုင်း YSL ဆိုက် 100ml ฿6,100 (လျှော့ဈေး ฿5,185) ⚠️ ဈေးက အချိန်နဲ့ ဆိုင်အလိုက် ပြောင်း",
+   "researchedBy": "chat",
+   "seasons": [
+    {
+     "advice": "မနက်ပိုင်း သို့ လေအေးပေး အခန်းထဲ သုံးပါ၊ နေပူကြီးထဲ ပန်းသီးချိုနံ့ လေးလံနိုင်တယ်။",
+     "fit": 3,
+     "months": "မတ်–မေ",
+     "season": "နွေ",
+     "sprays": "၁–၂ ချက်"
+    },
+    {
+     "advice": "စိုထိုင်းတဲ့ လေထဲ ကောင်းကောင်း ပြန့်တယ်၊ ချက်ရေ မများပါနဲ့။",
+     "fit": 4,
+     "months": "ဇွန်–အောက်တိုဘာ",
+     "season": "မိုး",
+     "sprays": "၂–၃ ချက်"
+    },
+    {
+     "advice": "အေးတဲ့ ညနေတွေမှာ amberwood နဲ့ tonka နွေးနွေးလေး အကောင်းဆုံး ပေါ်တယ်။",
+     "fit": 5,
+     "months": "နိုဝင်ဘာ–ဖေဖော်ဝါရီ",
+     "season": "ဆောင်း",
+     "sprays": "၃ ချက်"
+    }
+   ],
+   "sizes": "10ml · 40ml · 60ml · 100ml · 200ml · 150ml Refill",
+   "sources": [
+    {
+     "label": "Fragrantica",
+     "topic": "Notes pyramid၊ perfumer နှစ်ယောက်၊ main accords၊ ရာသီ/နေ့-ည vote၊ rating 4.41",
+     "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-50757.html"
+    },
+    {
+     "label": "Parfumo",
+     "topic": "Longevity 7.6 · Sillage 7.4၊ notes ကွာခြားချက်၊ Adam Levine/Lenny Kravitz၊ review တွေ",
+     "url": "https://www.parfumo.com/Perfumes/Yves_Saint_Laurent/Y_Eau_de_Parfum"
+    },
+    {
+     "label": "YSL Beauty",
+     "topic": "တရားဝင် ဖော်ပြချက် Sage/Geranium/Woods/Tonka၊ Suzanne Dalton ပုလင်း",
+     "url": "https://www.yslbeauty.com/int/fragrance/fragrance-for-him/y/y--eau-de-parfum/WW-50194YSL.html"
+    },
+    {
+     "label": "YSL Beauty US",
+     "topic": "ဆိုဒ်တွေ၊ 150ml refill၊ refillable စည်းကမ်း",
+     "url": "https://www.yslbeautyus.com/fragrance/mens-fragrances/y/y-eau-de-parfum/727YSL.html"
+    },
+    {
+     "label": "WWD",
+     "topic": "Adam Levine 2018 ကြော်ငြာ၊ Colin Tilley၊ Y EDT အရောင်း",
+     "url": "https://wwd.com/beauty-industry-news/beauty-features/exclusive-adam-levine-named-face-ysl-new-y-scent-1202665078"
+    },
+    {
+     "label": "Forbes",
+     "topic": "Lenny Kravitz 2020၊ black jeans + white T-shirt concept",
+     "url": "https://www.forbes.com/sites/celiashatzman/2020/09/21/lenny-kravitz-is-the-new-face-of-ysl-beautys-y-fragrance"
+    },
+    {
+     "label": "Cosmetics Business",
+     "topic": "2017 Y-crew မျက်နှာတွေ၊ Adam Levine ဝင်လာပုံ",
+     "url": "https://cosmeticsbusiness.com/ysl-taps-adam-levine-to-become-y-crew-fragrance-ambassador--134635"
+    },
+    {
+     "label": "Fragrantica News",
+     "topic": "Y EDP Intense 2023 notes၊ Y line စာရင်း",
+     "url": "https://www.fragrantica.com/news/Yves-Saint-Laurent-Y-Eau-de-Parfum-Intense-17743.html"
+    },
+    {
+     "label": "LOOKFANTASTIC",
+     "topic": "UK ဈေး £115၊ ဆိုဒ်တွေ",
+     "url": "https://www.lookfantastic.com/p/yves-saint-laurent-y-eau-de-parfum-100ml/11866959"
+    },
+    {
+     "label": "YSL Beauty Thailand",
+     "topic": "ထိုင်း ဈေး ฿6,100၊ refill ฿7,100",
+     "url": "https://www.yslbeautyth.com/en_TH/personalization/y-eau-de-parfum/WW-50194YSL.html"
+    }
+   ],
+   "status": "research",
+   "target": "အသက် ၁၈–၃၅၊ casual ကနေ smart casual၊ ချီးမွမ်းခံရချင်တဲ့ လူငယ်၊ Sauvage လောက် လူမသုံးတဲ့ blue/fresh ရေမွေး ရှာသူ၊ ရေမွေး စသုံးသူအတွက်လည်း ဘေးကင်း။",
+   "test": {},
+   "title": "Yves Saint Laurent Y Eau de Parfum",
+   "uncertain": [
+    "⚠️ Cedar ကို Fragrantica က base note အဖြစ် ထည့်ပေမယ့် Parfumo မှာ မပါဘူး။ Parfumo က Aldehydes၊ Elemi၊ Lavender၊ Operanide ကို ထပ်ထည့်တယ်၊ YSL တရားဝင်ဆိုက်က Apple၊ Geranium၊ Sage၊ 'Sensual Woods' နဲ့ Tonka ကိုပဲ ဖော်ပြတယ်။",
+    "⚠️ Perfumer — Fragrantica က Dominique Ropion နဲ့ Claire Liégent နှစ်ယောက်လို့ ဆိုပြီး Parfumo နဲ့ YSL ကြော်ငြာစာက Dominique Ropion ကိုပဲ ဖော်ပြတယ်။",
+    "⚠️ Longevity က review အလိုက် ကွာတယ် — ၃–၆ နာရီ ဆိုသူကနေ ၉–၁၁ နာရီ ဆိုသူအထိ။",
+    "⚠️ ဈေးနှုန်းက နိုင်ငံနဲ့ ဆိုင်အလိုက် အရမ်းကွာတယ်၊ YSL US ဆိုက်ရဲ့ $170 က ဘယ်ဆိုဒ်ဈေးလဲ မရှင်းဘူး။",
+    "⚠️ Y Le Parfum ကို 2025 မှာ pine note နဲ့ ပြန်ပြင်ထုတ်တယ်လို့ ဆိုတဲ့ ရလဒ် ရှိတယ်၊ ထပ်စစ်ပါ။",
+    "⚠️ Y EDP အတွက် တရားဝင် reformulation သတင်း မတွေ့ပါ။"
+   ],
+   "updatedAt": 1792920120396,
+   "v": 2,
+   "verdict": "Performance အင်အားကြီးပြီး ရုံးကနေ Date အထိ သုံးလို့ရတဲ့ Y line ထဲက လူကြိုက်အများဆုံး ဖြစ်ပေမယ့်၊ synthetic ပန်းသီးနံ့ ချိုတာကို 'ရှမ်ပူနံ့' လို့ ဝေဖန်သူ ရှိပြီး နေပူကြီးထဲ များများ ဖျန်းရင် လေးလံနိုင်တယ်။",
+   "verifiedAt": 1792920120396,
+   "verify": [
+    "Fragrantica ရဲ့ Y Eau de Parfum စာမျက်နှာမှာ Longevity/Sillage vote ကို စစ်ပါ။",
+    "ပုလင်းဘူးပေါ်က batch code နဲ့ ingredients စာရင်းကို ပုလင်းအောက်ခြေနဲ့ ယှဉ်စစ်ပါ။",
+    "ကိုယ်တိုင် ဝတ်စမ်းပြီး Longevity နဲ့ နေပူထဲ လေးလံမလေးလံ မှတ်ပါ။"
+   ],
+   "verifyRequest": null,
+   "webAt": 1792920120396,
+   "year": "2018",
+   "id": "yves-saint-laurent-y-eau-de-parfum"
+  }
+ ],
+ "vs": []
+}
