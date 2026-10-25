@@ -1,0 +1,8 @@
+{
+ "sample": { "images": true },
+ "db": {},
+ "user": {},
+ "assets": {},
+ "downloads": true,
+ "mcp": { "servers": [{ "server": "Parallel Search", "tools": ["web_search"] }] }
+}

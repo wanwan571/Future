@@ -1,0 +1,15 @@
+{
+ "name": "ရေမွေး Review Studio",
+ "studio": {
+  "url": "https://claude.ai/artifact/QcBLs9HEwrqVyxHWMxPfiD",
+  "file": "studio/perfume-research-studio.html",
+  "capabilities": "studio/capabilities.json",
+  "collection": "perfumes",
+  "icon": "perfume"
+ },
+ "design": {
+  "url": "https://claude.ai/artifact/LRwMXCp9ZB5oqY5XiuX6Po",
+  "dir": "design"
+ },
+ "backup": "data/perfume-studio-backup.json"
+}
