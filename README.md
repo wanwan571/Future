@@ -43,9 +43,10 @@ Account ဟောင်းထဲက ဘာမှ မပျက်ပါဘူး 
 
 ### ၂။ File တွေ ယူရန် (တစ်နည်းနည်း)
 
-- **GitHub နည်း** — ဒီ repo (`saikhaywunnukone-blip/future`) ကို account အသစ်ရဲ့ Claude Code
-  session မှာ ဖွင့်ပါ။ GitHub account မတူရင် ဒီ repo ကို fork လုပ်ပါ၊ ဒါမှမဟုတ် zip ထဲက
-  file တွေကို repo အသစ်ထဲ တင်ပါ။
+- **GitHub နည်း** — ဒီ repo (`wanwan571/Future`၊ အရင်နာမည် `saikhaywunnukone-blip/Future`)
+  ရဲ့ branch `claude/sleepy-turing-jqeh9s` ကို account အသစ်ရဲ့ Claude Code session မှာ ဖွင့်ပါ
+  (main ထဲ merge လုပ်ထားရင် main)။ GitHub account မတူရင် repo ကို fork လုပ်ပါ၊ ဒါမှမဟုတ် zip
+  ထဲက file တွေကို repo အသစ်ထဲ တင်ပါ။
 - **Zip နည်း** — `perfume-studio-export.zip` ကို ဖြည်ပြီး repo အသစ်ထဲ တင်ပါ။
 
 ### ၃။ Claude ကို ဒီစာ ပို့ပါ
