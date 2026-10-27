@@ -99,10 +99,14 @@ at most 60 characters (`Versace Pour Homme Dylan Blue Eau de Toilette` →
   (`script`, `captions`, `shoot`, `selftest`, `images`, `longscript`, `talk`, `hooks`, `angles`).
   If any of those script fields exist, also send `staleAt` = now, so the Studio offers to rewrite
   them from the new facts.
-- File mode (no `ArtifactData`): wrap the document in the Studio's backup format and give the user
-  the file — `{"format": "perfume-review-studio-backup", "version": 1, "exportedAt": "<ISO time>",
-  "perfumes": [{...the document..., "id": "<id>"}], "vs": []}` saved as `<id>.json`. Tell them:
-  Studio → Library → 💾 Backup → ⬆️ Import → choose the file → "အသစ် ၁ ခု ထည့်မယ်".
+- File mode (no `ArtifactData`, e.g. a claude.ai Project): give the user the profile as a Markdown
+  file `<id>.md` in the same layout as the Project's perfume knowledge files (facts table,
+  Accords & Performance, Notes Pyramid, seasons and occasions, pros / cons, brand story, the 12
+  deep sections, comparison, fake checks, FAQ, ⚠️ items, sources) and suggest adding it to the
+  Project knowledge. Only if they use the Studio app, also give the import file `<id>.json`:
+  `{"format": "perfume-review-studio-backup", "version": 1, "exportedAt": "<ISO time>",
+  "perfumes": [{...the document..., "id": "<id>"}], "vs": []}` — Studio → Library → 💾 Backup →
+  ⬆️ Import → choose the file → "အသစ် ၁ ခု ထည့်မယ်".
 
 ## 7. Report (Burmese, short)
 

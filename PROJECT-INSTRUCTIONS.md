@@ -29,17 +29,20 @@ talking points and captions from the stored facts (see STUDIO-GUIDE.md). The kno
    Read the Fragrantica and Parfumo pages and the brand page. Reliability: brand site > Fragrantica,
    Parfumo, Basenotes > big retailers and trade press > blogs > Reddit. Keep only facts about this
    exact version; cite only URLs you actually saw.
-3. Write the Studio document exactly as in schema.md (example.json is a complete example):
-   facts, 12 deep sections, compare, authenticity, faq, sources; `origin: "web"`,
-   `researchedBy: "chat"`, timestamps in milliseconds.
-4. If you can write to the Studio's database (an `ArtifactData` tool), save it to collection
-   `perfumes` with id = slug of the name. Otherwise give the user a file named `<id>.json`:
+3. Cover everything schema.md lists (example.json is a complete example): facts, accords and
+   performance, notes pyramid with a Burmese smell description per note, seasons and occasions,
+   pros and cons, brand story, the 12 deep sections, comparison, fake checks, 6 FAQ, sources.
+4. Give it to the user as a Markdown file named `<id>.md` (id = slug of the full name, e.g.
+   `ramon-monegal-flamenco-eau-de-parfum`) in the same layout as the knowledge files
+   `perfumes/*.md`, and suggest adding it to the Project knowledge so later chats know it.
+   Only if the user says they use the Studio app, also give the Studio import file `<id>.json`:
    `{"format": "perfume-review-studio-backup", "version": 1, "exportedAt": "<ISO time>",
-   "perfumes": [{...document..., "id": "<id>"}], "vs": []}` and tell them:
-   Studio → Library → 💾 Backup → ⬆️ Import → choose the file → "အသစ် ၁ ခု ထည့်မယ်".
-5. Report in Burmese: the 3–5 most useful facts and the ⚠️ items to know before filming. Say the
-   Studio will write the scripts from these facts when the perfume is opened. Do not write
-   scripts in the research step.
+   "perfumes": [{...document as in schema.md..., "id": "<id>"}], "vs": []}` (Studio → Library →
+   💾 Backup → ⬆️ Import). If you can write to the Studio's database directly (an `ArtifactData`
+   tool), save it to collection `perfumes` instead.
+5. Report in Burmese: the 3–5 most useful facts and the ⚠️ items to know before filming, then
+   offer to write the scripts, talking points and captions. Do not write scripts in the research
+   step unless asked.
 
 ## Rules for every text
 

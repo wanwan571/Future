@@ -32,36 +32,45 @@ perfume-research-skill.zip       ← claude.ai Skills ထဲ upload လုပ်
 - **Versace Pour Homme Dylan Blue EDT** နဲ့ **Yves Saint Laurent Y EDP** — Chat က source နဲ့
   စစ်ထားတဲ့ အချက်အလက်၊ script မထုတ်ရသေး — Studio မှာ ဖွင့်တာနဲ့ အလိုလို ရေးပေးမယ်
 
-## နည်း ၁ — Claude Code (အကြံပြု၊ အကုန် အလုပ်လုပ်)
+## နည်း ၁ — claude.ai Project (GitHub မလို)
 
-ဒီ project ကို တည်ဆောက်ခဲ့တဲ့ နည်းပါ — Studio app (AI၊ database၊ web ရှာ) နဲ့ chat research
-အကုန် သေချာ အလုပ်လုပ်ပါတယ်။
+1. claude.ai → **Projects** → **New project** — နာမည် "Perfume Review Studio"။
+2. **Instructions** ထဲကို `PROJECT-INSTRUCTIONS.md` ရဲ့ `---` အောက်က စာ အကုန် ကူးထည့်ပါ။
+3. **Project knowledge** ထဲ upload လုပ်ပါ:
+   - `perfumes/` ထဲက ရေမွေး `.md` ၄ ခု
+   - `studio/STUDIO-GUIDE.md`
+   - `.claude/skills/perfume-research/schema.md` နဲ့ `example.json`
+4. (ရရင်) Settings → Capabilities → Skills မှာ `perfume-research-skill.zip` ကို upload လုပ်ပါ။
+5. Chat မှာ **Web search** ဖွင့်ထားပါ (ရေမွေး ရှာဖို့ လိုတယ်)။
 
-1. **Parallel Search ချိတ်** — account အသစ်မှာ claude.ai → Settings → Connectors → Parallel Search။
-2. **GitHub ချိတ်** — claude.ai/code ဖွင့်ပြီး GitHub account ချိတ်ပါ။
-3. **File တင်** — ဒီ folder ကို GitHub repo အဖြစ် တင်ပါ (repo အသစ် ဆောက်ပြီး file အကုန် upload၊
-   ဒါမှမဟုတ် `wanwan571/Future` repo ရဲ့ branch `claude/sleepy-turing-jqeh9s` ကို သုံး)။
-4. **Session ဖွင့်** — claude.ai/code မှာ အဲဒီ repo နဲ့ session အသစ် ဖွင့်ပါ။
-5. **ဒီစာကို ကူးပြီး ပို့ပါ:**
+**သုံးနည်း**
+- Project ထဲ chat အသစ်ဖွင့်ပြီး ရေမွေးနာမည် ရိုက်ပါ → Claude က web မှာ ရှာ၊ source နဲ့ စစ်ပြီး
+  အချက်အလက် အပြည့်ကို `.md` file အဖြစ် ပေးပါမယ်။ အဲဒီ file ကို Project knowledge ထဲ ထပ်တင်ထားရင်
+  နောက် chat တွေကလည်း သိနေပါမယ်။
+- "Script ရေးပေး"၊ "Caption ရေးပေး"၊ "ဘယ်လိုပြောရမလဲ" လို့ မေးရင် knowledge ထဲက အချက်အလက်ပေါ်ကပဲ
+  ရေးပေးပါမယ်။ ရေမွေး ၄ လုံးရဲ့ script တွေက `.md` file ထဲမှာ ရှိပြီးသားပါ (Dylan Blue နဲ့ YSL Y မှာ
+  script မပါသေးလို့ chat မှာ ရေးခိုင်းပါ)။
+
+**Studio app ကိုပါ သုံးချင်ရင် (မဖြစ်မနေ မဟုတ်)**
+1. Project ထဲ chat မှာ `studio/perfume-research-studio.html` ကို upload လုပ်ပြီး
+   "ဒီ HTML file ကို code မပြင်ဘဲ artifact အဖြစ် ဖွင့်ပေး" လို့ ပြောပါ။
+2. Studio ပွင့်ရင် → Library → 💾 Backup → Import → `perfume-studio-backup.json` ရွေးပါ။
+3. ⚠️ Studio က AI၊ database၊ web ရှာ capability တွေ လိုပါတယ်။ Chat သာမန်ရဲ့ artifact မှာ ဒါတွေ
+   ရမရ ကျွန်တော် မစစ်နိုင်ပါ။ "AI မသုံးနိုင်ပါ" ပေါ်ရင်၊ ဒါမှမဟုတ် Import လုပ်တာ မသိမ်းရင် အဲဒီ
+   chat မှာ Studio မရပါဘူး — Project chat (အပေါ်က သုံးနည်း) နဲ့ပဲ ဆက်သုံးပါ၊ info နဲ့ script
+   အကုန် ရပါတယ်။
+
+## နည်း ၂ — Claude Code (GitHub လို၊ Studio အကုန် သေချာ အလုပ်လုပ်)
+
+ဒီ project ကို တည်ဆောက်ခဲ့တဲ့ နည်းပါ။
+
+1. claude.ai → Settings → Connectors → **Parallel Search** ချိတ်ပါ။
+2. claude.ai/code ဖွင့်ပြီး GitHub ချိတ်၊ ဒီ folder ကို repo အဖြစ် တင်ပါ။
+3. အဲဒီ repo နဲ့ session ဖွင့်ပြီး ပို့ပါ:
 
    > START-HERE.md ထဲက "Claude လုပ်ရမယ့် အဆင့်" အတိုင်း လုပ်ပေး — Studio ကို ဒီ account မှာ publish လုပ်၊ backup data ထည့်၊ project.json ကို link အသစ်နဲ့ ပြင်ပြီး commit လုပ်ပေး။
 
-6. **စမ်းကြည့်** — Claude ပို့တဲ့ Studio link ဖွင့် → `Dylan Blue` ရိုက်ရှာ → ပွင့်လာရမယ်။
-   Chat မှာ ရေမွေးနာမည် တစ်ခု ရိုက် → ရှာပြီး Studio ထဲ ရောက်လာရမယ်။
-
-## နည်း ၂ — claude.ai Project (chat သာမန်)
-
-1. claude.ai → Projects → **New project** ("Perfume Review Studio")။
-2. **Instructions** ထဲကို `PROJECT-INSTRUCTIONS.md` ရဲ့ `---` အောက်က စာ ကူးထည့်ပါ။
-3. **Project knowledge** ထဲကို ဒီ file တွေ upload: `perfumes/*.md`၊ `studio/STUDIO-GUIDE.md`၊
-   `.claude/skills/perfume-research/schema.md`၊ `.claude/skills/perfume-research/example.json`။
-4. (ရရင်) Settings → Capabilities → Skills မှာ `perfume-research-skill.zip` ကို upload လုပ်ပါ။
-5. Chat မှာ ရေမွေးနာမည် ရိုက်ရင် Claude က ရှာပြီး Studio ထဲ Import လုပ်လို့ရတဲ့ `.json` file
-   ပေးပါလိမ့်မယ်။ ရေမွေး ၄ လုံးရဲ့ အချက်အလက်ကို မေးရင်လည်း `.md` file တွေကနေ ဖြေပါမယ်။
-
-⚠️ Studio app ကိုယ်တိုင်က AI၊ database၊ web ရှာ capability တွေ လိုပါတယ်။ Chat သာမန်ကနေ ဒီလို
-artifact ကို publish လုပ်လို့ ရမရ ကျွန်တော် မစစ်နိုင်ပါ — မရရင် Studio ကို နည်း ၁ နဲ့ တစ်ခါ
-publish လုပ်ပြီး link ကို Project ထဲမှာ မှတ်ထားပါ။
+4. Studio link ဖွင့် → `Dylan Blue` ရိုက်ရှာ → ပွင့်လာရမယ်။
 
 ## Data ကို ကိုယ်တိုင် ထည့်နည်း (Claude မလိုဘူး)
 
