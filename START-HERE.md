@@ -17,7 +17,7 @@ studio/
   capabilities.json              ← Studio သုံးခွင့်တွေ (AI၊ database၊ web ရှာ၊ download)
   STUDIO-GUIDE.md                ← ခလုတ်တွေ၊ data ပုံစံ၊ AI prompt တွေ ရှင်းပြချက်
 data/
-  perfume-studio-backup.json     ← ရေမွေး ၃ လုံးလုံး (Studio ထဲ Import လုပ်ဖို့)
+  perfume-studio-backup.json     ← ရေမွေး ၄ လုံးလုံး (Studio ထဲ Import လုပ်ဖို့)
   perfumes/<ရေမွေး>.json          ← တစ်လုံးချင်း backup
 perfumes/<ရေမွေး>.md              ← တစ်လုံးချင်း အချက်အလက် + script + caption အကုန် (ဖတ်ဖို့)
 design/                          ← ဖုန်း design canvas
@@ -26,9 +26,11 @@ tools/                           ← backup ခွဲတာ၊ markdown ထု�
 perfume-research-skill.zip       ← claude.ai Skills ထဲ upload လုပ်ဖို့ (zip ထဲမှာပဲ ပါ)
 ```
 
-ရေမွေး data: **Dior Sauvage Eau de Parfum** (script အကုန် ပါ)၊ **Versace Pour Homme Dylan Blue EDT**
-နဲ့ **Yves Saint Laurent Y EDP** (Chat က source နဲ့ စစ်ထားတဲ့ အချက်အလက် — Studio မှာ ဖွင့်တာနဲ့
-script တွေ အလိုလို ရေးပေးမယ်)။
+ရေမွေး data ၄ လုံး:
+- **Louis Vuitton Moon Tale Eau de Parfum** — Studio ထဲမှာ web နဲ့ ရှာထား၊ script အကုန် ပါ
+- **Dior Sauvage Eau de Parfum** — Studio ထဲမှာ web နဲ့ ရှာထား၊ script အကုန် ပါ
+- **Versace Pour Homme Dylan Blue EDT** နဲ့ **Yves Saint Laurent Y EDP** — Chat က source နဲ့
+  စစ်ထားတဲ့ အချက်အလက်၊ script မထုတ်ရသေး — Studio မှာ ဖွင့်တာနဲ့ အလိုလို ရေးပေးမယ်
 
 ## နည်း ၁ — Claude Code (အကြံပြု၊ အကုန် အလုပ်လုပ်)
 
@@ -55,7 +57,7 @@ script တွေ အလိုလို ရေးပေးမယ်)။
    `.claude/skills/perfume-research/schema.md`၊ `.claude/skills/perfume-research/example.json`။
 4. (ရရင်) Settings → Capabilities → Skills မှာ `perfume-research-skill.zip` ကို upload လုပ်ပါ။
 5. Chat မှာ ရေမွေးနာမည် ရိုက်ရင် Claude က ရှာပြီး Studio ထဲ Import လုပ်လို့ရတဲ့ `.json` file
-   ပေးပါလိမ့်မယ်။ ရေမွေး ၃ လုံးရဲ့ အချက်အလက်ကို မေးရင်လည်း `.md` file တွေကနေ ဖြေပါမယ်။
+   ပေးပါလိမ့်မယ်။ ရေမွေး ၄ လုံးရဲ့ အချက်အလက်ကို မေးရင်လည်း `.md` file တွေကနေ ဖြေပါမယ်။
 
 ⚠️ Studio app ကိုယ်တိုင်က AI၊ database၊ web ရှာ capability တွေ လိုပါတယ်။ Chat သာမန်ကနေ ဒီလို
 artifact ကို publish လုပ်လို့ ရမရ ကျွန်တော် မစစ်နိုင်ပါ — မရရင် Studio ကို နည်း ၁ နဲ့ တစ်ခါ
@@ -64,7 +66,7 @@ publish လုပ်ပြီး link ကို Project ထဲမှာ မှ�
 ## Data ကို ကိုယ်တိုင် ထည့်နည်း (Claude မလိုဘူး)
 
 Studio ဖွင့် → အောက်က **Library** → အောက်ဆုံး **💾 Backup** → **⬆️ Import file ရွေးမယ်** →
-`data/perfume-studio-backup.json` ရွေး → **"အသစ် ၃ ခု ထည့်မယ်"**။
+`data/perfume-studio-backup.json` ရွေး → **"အသစ် ၄ ခု ထည့်မယ်"**။
 
 ## Claude လုပ်ရမယ့် အဆင့် (for Claude)
 
@@ -75,7 +77,7 @@ Studio ဖွင့် → အောက်က **Library** → အောက်ဆ
 2. Import the data: `python3 tools/split_backup.py data/perfume-studio-backup.json <scratchpad>/import`,
    then `ArtifactData` `set` each printed file (`collection` = `perfumes` or `vs`, `doc_id` = file
    name without `.json`, `file_path` = that file); batch at most 3 documents per call (they are large).
-   Check with `ArtifactData` `list` that 3 perfumes are there.
+   Check with `ArtifactData` `list` that all 4 perfumes are there.
 3. Put the new link in `project.json` → `studio.url`, commit and push.
 4. Optional: recreate the design canvas from `design/` (static mockup; not needed to run).
 5. Send the user the Studio link in Burmese and remind them to keep Parallel Search connected.
